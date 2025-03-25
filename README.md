@@ -17,7 +17,8 @@ A simple and beautiful task management mobile app built with **React Native (Exp
 
 ## 📱 Screenshots
 
-![Uploading Ekran Resmi 2025-03-25 23.17.16.png…]()
+<img width="416" alt="todo_app_ss" src="https://github.com/user-attachments/assets/ce1b18a1-be52-4004-87b9-c94f0c128d9d" />
+
 
 
 ## 📦 Installation

@@ -17,7 +17,8 @@ A simple and beautiful task management mobile app built with **React Native (Exp
 
 ## 📱 Screenshots
 
-![Screenshot](./assets/screenshot.png)
+![Uploading Ekran Resmi 2025-03-25 23.17.16.png…]()
+
 
 ## 📦 Installation
 

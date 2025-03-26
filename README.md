@@ -1,6 +1,6 @@
 # 📋 Todo App
 
-A simple and beautiful task management mobile app built with **React Native (Expo)**.
+A simple task management mobile app built with **React Native (Expo)**.
 
 ## ✨ Features
 

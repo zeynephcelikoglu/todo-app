@@ -7,7 +7,7 @@ A simple and beautiful task management mobile app built with **React Native (Exp
 - Add, edit, delete tasks
 - Mark tasks as completed
 - View task statistics (Total, Completed, Pending)
-- Smooth UI with custom gradients and blur effects
+- Smooth UI with blur effects
 
 ## 🚀 Tech Stack
 
